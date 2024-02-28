@@ -5,5 +5,6 @@ Events that have passed turn gray, while present events are red and future ones 
 
 
 ## Deployed Application
+https://lukestano22.github.io/Scheduling-App/
 
 ## App Displayed
