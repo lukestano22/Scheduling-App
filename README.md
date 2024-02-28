@@ -8,3 +8,4 @@ Events that have passed turn gray, while present events are red and future ones 
 https://lukestano22.github.io/Scheduling-App/
 
 ## App Displayed
+<img width="1018" alt="schedule-SS" src="https://github.com/lukestano22/Scheduling-App/assets/147096339/951a51d0-7ff5-48c8-ab0e-79c476eda514">
